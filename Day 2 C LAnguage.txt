@@ -1,0 +1,43 @@
+1. Which of the following are real constants?
+
+        3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+
+Ans:​​Real constants - 4.5 , 3.0 , -0.0
+
+2. Which of the following are not keywords in C Language?
+auto, dynamic, static, typedef, define, enum, is, default, this, super
+
+Ans:​​Valid Keywords - dynamic , define , is , this , super
+
+3.​​Which of the following is not a valid variable name in C language?
+
+Ans:123var
+
+4.Can we make a variable with the name switch? (Yes or No)
+
+Ans:No
+
+5.Keywords are defined in the compiler or their meaning is stored in the library?
+
+Ans:the #define directive allows the definition of macros within your source code. 
+
+6.Where variables are created? (RAM, ROM, Secondary Storage or CPU)
+
+Ans:So in general, all values of non-zero variables are stored in ROM, which are mapped to RAM locations populated via the start-up code.
+
+7.Who developed C Language?
+
+Ans:C, computer programming language developed in the early 1970s by American computer scientist Dennis M. Ritchie at Bell Laboratories (formerly AT&T Bell Laboratories).
+
+8.When was the C language developed?
+
+Ans:C came into being in the years 1969-1973, in parallel with the early development of the Unix operating system; the most creative period occurred during 1972.
+
+9.What is the name of the operating system which is responsible for the inception of the C language?
+
+Ans:Originally developed in the 1970s, Unix was one of the first operating systems to be written in the C language.
+
+10.Whether C language is a high level or low level programming language?
+
+Ans:C is a high-level language. C is not a “portable assembly language” or any type of assembly language. It is a portable high-level language,. C is not a “low-level language.” Machine language and assembly language are low-level languages.
+
