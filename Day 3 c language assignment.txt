@@ -1,0 +1,48 @@
+1.What are the primitive data types in C Language?
+
+Ans:There are eight primitive data types: Boolean, byte, character, short, int, long, float, and double. 
+In a Programming language, these data types serve as the foundation for data manipulation.
+
+2.What kind of statements can be written outside the function body?
+
+Ans:In C, a statement can be any of the following:
+Labeled Statements.
+Compound Statements.
+Expression Statements.
+Selection Statements.
+Iteration Statements.
+Jump Statements.
+
+3.What is the size of float type variable?
+
+Ans:4 bytes.
+
+4.What is the value of an uninitialised variable?
+
+Ans:INTRODUCTION: An uninitialized variable has an undefined value,
+often corresponding to the data that was already in the particular memory location that the variable is using.
+
+5.What is the difference between float and double?
+
+Ans:A float has 7 decimal digits of precision and occupies 32 bits . A double is a 64-bit IEEE 754 double-precision floating-point number
+
+6.What is the full form of ASCII?
+
+Ans:ASCII (American Standard Code for Information Interchange)
+
+7.What is the difference between a keyword and a function?
+
+Ans:A function is executed within a stack frame, whereas a keyword statement isn't necessarily.
+
+8.Explore the use of type modifiers in C language.
+
+Ans:There are five data type modifiers in C Programming Language:
+long.
+short.
+signed.
+unsigned.
+long long.
+
+9.Can you assign a character constant in an int variable?
+
+Ans:You can. In C character constant is of type int .
